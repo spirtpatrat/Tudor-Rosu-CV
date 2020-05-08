@@ -1,0 +1,142 @@
+html {}
+
+
+/*style for body*/
+
+body {
+	background-color: rgba(0, 0, 0, 0.068);
+}
+
+
+/*style for heading 1-3*/
+
+h1,
+h2,
+h3 {
+	font-family: 'times new roman';
+	font-weight: bold;
+	font-style: italic;
+}
+
+
+/*style for Tudor Rosu's CV*/
+
+.theheading {
+	text-align: center;
+	color: rgba(0, 0, 0, 0.582);
+}
+
+
+/*style for work history */
+
+.workhistory {
+	text-align: left;
+}
+
+
+/*style for educational history */
+
+.educationalhistory {
+	text-align: right;
+}
+
+
+/*style for about me section*/
+
+.aboutme {
+	text-align: center;
+}
+
+
+/*style for details section */
+
+.details {
+	list-style-type: none;
+	margin: 0;
+	padding: 0%;
+}
+
+.details li {
+	font-family: 'palatino linotype';
+	font-size: 5mm;
+	font-style: italic;
+	color: rgb(20, 109, 109);
+}
+
+.nav {
+	border: 1px solid #ccc;
+	border-width: 1px 1px;
+	list-style: none;
+	padding: 0;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.836);
+}
+
+.nav li {
+	display: inline;
+}
+
+.nav a {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+}
+
+.nav li a:hover {
+	color: white;
+	background-color: black;
+}
+
+div.workspace img {
+	width: 50%;
+	height: 50%;
+	border-radius: 9px;
+}
+
+.companyandlocation {
+	font-family: 'book antiqua';
+	font-size: 4.5mm;
+}
+
+
+/*style for position*/
+
+.position {
+	font-family: gulim;
+}
+
+
+/*style for description*/
+
+.description {
+	font-family: cambria;
+}
+
+
+/*style for linkedin link*/
+
+#linkedin {
+	text-decoration: none;
+	font-family: cambria;
+	font-size: 5.5mm;
+	color: black;
+}
+
+#linkedin:hover {
+	color: blue;
+}
+
+
+/*style for totop link*/
+
+.totop {
+	text-decoration: none;
+	color: black;
+}
+
+.totop:hover {
+	color: blue;
+}
+
+html {}
